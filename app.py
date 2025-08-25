@@ -246,7 +246,7 @@ for skill, cls in skills:
     st.markdown(f"<span class='skill-badge {cls}'>{skill}</span>", unsafe_allow_html=True)
 
 # --- WHY HIRE ME ---
-st.markdown("<div class='section-title'>🚀 Why Hire Me?</div>", unsafe_allow_html=True)
+st.markdown("<div class='section-title'>🚀 Why Work With Me?</div>", unsafe_allow_html=True)
 st.write("""
 - **Proven Team Builder & Leader** — Built and scaled engineering teams from scratch (Compunetix, SoftWriters), managed cross-functional groups of 3–12 engineers across multiple companies.  
 - **Technical Depth + Breadth** — Hands-on expertise across **Python, C#/TypeScript/React, AWS serverless, and DevOps (Terraform/CDK, Azure DevOps CI/CD)**, combined with leadership in architecture and delivery.  

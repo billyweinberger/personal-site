@@ -167,14 +167,13 @@ with st.expander("Compass Group USA – Senior Technical Lead/Manager (2024–Pr
     - Managed a cross-functional team of engineers across dev, QA, and DevOps.  
     """)
 
-with st.expander("MURAL – Engineering Manager (2022–2023)"):
+with st.expander("Idelic – Engineering Manager (2023–2024)"):
     st.write("""
-    - Managed two teams:  
-        • Full-stack Integrations (6 engineers, TypeScript/React/C#/Playwright)  
-        • QA Automation (4 engineers)  
-    - Collaborated with Product and Design for roadmap alignment.  
-    - Implemented structured production support rotations and customer feedback loops.  
-    - Supported delivery of Microsoft Teams integration that won Microsoft Partner of the Year.  
+    - Led two teams:  
+        • Core Software (6 engineers, C#/MSFT stack)  
+        • DevOps (3 engineers, Terraform, CI/CD, observability)  
+    - Enhanced monitoring/observability with Datadog.  
+    - Drove improvements in deployment reliability and infrastructure stability.  
     """)
 
 with st.expander("Loyal Healthcare – Engineering Manager (2023)"):
@@ -185,13 +184,14 @@ with st.expander("Loyal Healthcare – Engineering Manager (2023)"):
     - Designed career growth frameworks for team development.  
     """)
 
-with st.expander("Idelic – Engineering Manager (2023–2024)"):
+with st.expander("MURAL – Engineering Manager (2022–2023)"):
     st.write("""
-    - Led two teams:  
-        • Core Software (6 engineers, C#/MSFT stack)  
-        • DevOps (3 engineers, Terraform, CI/CD, observability)  
-    - Enhanced monitoring/observability with Datadog.  
-    - Drove improvements in deployment reliability and infrastructure stability.  
+    - Managed two teams:  
+        • Full-stack Integrations (6 engineers, TypeScript/React/C#/Playwright)  
+        • QA Automation (4 engineers)  
+    - Collaborated with Product and Design for roadmap alignment.  
+    - Implemented structured production support rotations and customer feedback loops.  
+    - Supported delivery of Microsoft Teams integration that won Microsoft Partner of the Year.  
     """)
 
 with st.expander("SoftWriters – Automation Engineering Manager (2020–2022)"):
